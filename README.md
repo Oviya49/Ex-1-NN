@@ -1,7 +1,7 @@
-<H3>ENTER YOUR NAME:  OVIYA N</H3>
-<H3>ENTER YOUR REGISTER NO.: 212223040140</H3>
-<H3>EX. NO.1</H3>
-<H3>DATE</H3>
+### ENTER YOUR NAME:  OVIYA N
+### ENTER YOUR REGISTER NO.: 212223040140
+### EX.NO:01
+### DATE:21/08/2025
 
 
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
@@ -39,7 +39,7 @@ STEP 5:Normalizing the data<BR>
 STEP 6:Splitting the data into test and train<BR>
 
 ##  PROGRAM:
-TYPE YOUR CODE HERE
+
 Import Libraries
 ```
 
